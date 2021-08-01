@@ -28,7 +28,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ```$ yarn ```
 
-```$ yarn start``` (using nodemon to update when saving modifications)
+```$ yarn start```
 
 ## How to build image and run container ?
 
